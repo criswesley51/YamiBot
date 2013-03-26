@@ -1,0 +1,6 @@
+SERVER: irc.example.net
+PORT: 6667
+NICK: YamiBot
+NAME: YamiIRC Bot
+PLUGINDIR: plugins
+CHANNELS: #test #test2 #test3
